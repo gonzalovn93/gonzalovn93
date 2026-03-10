@@ -10,15 +10,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 > AI-native PM. I build products and the systems I need to ship them faster.  
-> 8+ years across consumer tech, ads, and fintech. Currently building GOPLAI.
+> 8+ years across consumer tech, ads, and fintech. Currently building GoPlai.
 
 ---
 
 ## 🚀 Current Projects
 
 **AI-native products**
-- 🏅 [**goplai**](https://letsgoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
-- 🧠 [**kairos**](https://kairosmvp-xi.vercel.app) — AI system for personal OKRs and life design. Built on Notion + Claude
+- 🏅 [**GoPlai**](https://letsgoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
+- 🧠 [**Kairos**](https://kairosmvp-xi.vercel.app) — AI system for personal OKRs and life design. Built on Notion + Claude
 
 **AI Operating System**
 - ⚙️ [**ai-operating-system**](https://github.com/gonzalovn93/ai-operating-system) — 43+ workflows across career, content, product, and productivity. All on Claude Code
