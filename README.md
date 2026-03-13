@@ -17,19 +17,11 @@
 ## 🚀 Current Projects
 
 **AI-native products**
-- 🏅 [**GoPlai**](https://letsgoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
+- 🏅 [**GoPlai**](https://joingoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
 - 🧠 [**Kairos**](https://kairosmvp-xi.vercel.app) — AI system for personal OKRs and life design. Built on Notion + Claude
 
 **AI Operating System**
 - ⚙️ [**ai-operating-system**](https://github.com/gonzalovn93/ai-operating-system) — 43+ workflows across career, content, product, and productivity. All on Claude Code
-
-| Workflow | What it does |
-|---|---|
-| [job-hunter](https://github.com/gonzalovn93/ai-operating-system/blob/main/career/job-hunter) | scrapes 18+ companies daily for PM roles |
-| [application-blitz](https://github.com/gonzalovn93/ai-operating-system/blob/main/career/application-blitz) | generates tailored resume + cover per role |
-| [networking-scout](https://github.com/gonzalovn93/ai-operating-system/blob/main/career/networking-scout) | finds and scores contacts at target companies |
-| [content-package-generator](https://github.com/gonzalovn93/ai-operating-system/blob/main/content/content-package-generator) | LinkedIn post + carousel + video script |
-| [daily-digest](https://github.com/gonzalovn93/ai-operating-system/blob/main/productivity/daily-digest) | AI-summarized news from 80+ sources → Notion |
 
 ---
 
