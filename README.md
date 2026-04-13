@@ -18,7 +18,7 @@
 
 **AI-native products**
 - 🏅 [**GoPlai**](https://joingoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
-- 🎬 [**WhatIfStudios**](https://github.com/gonzalovn93/whatifstudios) — AI video pipeline that generates cinematic "what if" matchup videos (Batman vs Wolverine, Goku vs Superman) from concept to YouTube. Character bible system, fan-research-enriched scripts, hybrid Kling + Ken Burns assembly. ~$1.43/video
+- 🎬 [**WhatIfStudios**](https://github.com/gonzalovn93/whatifstudios) — AI video pipeline that generates cinematic "what if" matchup videos (Batman vs Wolverine, Goku vs Superman) from concept to YouTube
 - 🧠 [**Kairos**](https://kairosmvp-xi.vercel.app) — AI system for personal OKRs and life design. Built on Notion + Claude
 
 **AI Operating System**
