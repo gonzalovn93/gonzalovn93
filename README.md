@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-> AI-native PM. I build products and the systems I need to ship them faster.  
+> AI-native PM. I build products and the systems I need to ship them faster.
 > 8+ years across consumer tech, ads, and fintech. Currently building GoPlai.
 
 ---
@@ -18,6 +18,7 @@
 
 **AI-native products**
 - 🏅 [**GoPlai**](https://joingoplai.com) — computer vision + LLMs to generate highlights for amateur athletes. 150+ user interviews, top 10% YC, MVP in 4 months
+- 🎬 [**WhatIfStudios**](https://github.com/gonzalovn93/whatifstudios) — AI video pipeline that generates cinematic "what if" matchup videos (Batman vs Wolverine, Goku vs Superman) from concept to YouTube. Character bible system, fan-research-enriched scripts, hybrid Kling + Ken Burns assembly. ~.43/video
 - 🧠 [**Kairos**](https://kairosmvp-xi.vercel.app) — AI system for personal OKRs and life design. Built on Notion + Claude
 
 **AI Operating System**
@@ -27,22 +28,18 @@
 
 ## 🧠 How I build
 
-Most PMs write PRDs. I prototype first, then write the PRD.  
+Most PMs write PRDs. I prototype first, then write the PRD.
 Most people use AI as a chatbot. I use it as infrastructure.
 
-```bash
-$ python main.py hunt      → scanning 18 companies... ✓
-$ python main.py blitz     → tailored resume generated ✓
-$ python main.py scout     → contacts scored and queued ✓
-```
+
 
 ---
 
 ## 📈 Background
 
-- **Rappi** — built RappiAds from 0→1, scaled to $1M/month revenue across LatAm
+- **Rappi** — built RappiAds from 0→1, scaled to M/month revenue across LatAm
 - **Intuit** — shipped first vendor-powered onboarding prefill MVP in 8 weeks
-- **Alicorp** — launched two B2B platforms (IoT + ML), $10M+ enterprise value
+- **Alicorp** — launched two B2B platforms (IoT + ML), 0M+ enterprise value
 - **Berkeley Haas** — Tech Club Co-President · Dean's Speaker Series interviewer (Aravind Srinivas, CEO Perplexity)
 - **NXTEP** — founded Peru's first product & growth community, 600+ members
 
@@ -52,7 +49,7 @@ $ python main.py scout     → contacts scored and queued ✓
 
 I share product thinking, AI tools, and builder lessons with 14K+ followers on LinkedIn.
 
-→ [linkedin.com/in/gonzalov93](https://linkedin.com/in/gonzalov93)  
+→ [linkedin.com/in/gonzalov93](https://linkedin.com/in/gonzalov93)
 → [gonzavasquez.com](https://gonzavasquez.com)
 
 ---
